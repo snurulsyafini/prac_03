@@ -26,5 +26,4 @@ def print_asterisk(new_password):
         print('*', end='')
 
 
-if __name__ == '__main__':
-    main()
+main()
